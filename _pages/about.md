@@ -4,10 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I have graduated from LUMS with a Master's degree in Computer Science. Currently, I am working as an Analyst Engineer (Team Lead) at Quantum Intelligence. In my current role, I am working on cutting edge machine learning & deep learning problems. These days I am working on Optical Character Recognition System for Urdu names using Deep Neural Networks and also overseeing a team of 6 people.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Over the last year, I have acquired all the necessary skills required from a Machine Learning Engineer. I have developed the skills by learning from online courses and by doing projects on my own. I am proficient in Python and I have a deep understanding of all the major machine learning techniques and algorithms.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Key Technologies and Methodologies:
+-Machine Learning
+-Deep Learning
+-Computer Vision
+-Natural Language Processing
+-Python
+-SQL
+-PyTorch
