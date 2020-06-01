@@ -9,10 +9,10 @@ I have graduated from LUMS with a Master's degree in Computer Science. Currently
 Over the last year, I have acquired all the necessary skills required from a Machine Learning Engineer. I have developed the skills by learning from online courses and by doing projects on my own. I am proficient in Python and I have a deep understanding of all the major machine learning techniques and algorithms.
 
 Key Technologies and Methodologies:
--Machine Learning
--Deep Learning
--Computer Vision
--Natural Language Processing
--Python
--SQL
--PyTorch
+*Machine Learning
+*Deep Learning
+*Computer Vision
+*Natural Language Processing
+*Python
+*SQL
+*PyTorch
